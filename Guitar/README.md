@@ -17,7 +17,7 @@
 - Download or clone the repository
 
 ```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+https://github.com/shwetasugure/Web-Dev-Projects.git
 ```
 
 - Go to the directory
@@ -28,11 +28,6 @@ git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
 
 ### How to use 
 1. click on the guitar and then hower over it to listen the sound of guitar.
-
-
-It somehow look like this.
-![gui](https://user-images.githubusercontent.com/76838660/128736725-a843641e-defe-4534-ab63-9de09c629c53.PNG)
-
 
 
 ## Happy Coding!
